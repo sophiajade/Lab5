@@ -1,0 +1,879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32730371638421,
+          47.70201953308559
+        ]
+      },
+      "properties": {
+        "name": "Northgate Transit Center P&R with bicycle lockers",
+        "OBJECTID": 1,
+        "FEATURE_ID": 580008,
+        "CODE": "Bike Locker",
+        "ADDRESS": "10200 1st Ave NE",
+        "BIKE_LOCKERS": 12,
+        "OnDemandeLockers": 12,
+        "XCOORD": 1272576.2500391,
+        "YCOORD": 259645.57794693,
+        "LONGITUDE": -122.32730504,
+        "LATITUDE": 47.70201774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15236778436018,
+          47.58031064283706
+        ]
+      },
+      "properties": {
+        "name": "Eastgate P&R with bicycle lockers",
+        "OBJECTID": 2,
+        "FEATURE_ID": 580020,
+        "CODE": "Bike Locker",
+        "ADDRESS": "14200 SE Eastgate Way",
+        "BIKE_LOCKERS": 14,
+        "OnDemandeLockers": 8,
+        "XCOORD": 1314883.00007111,
+        "YCOORD": 214469.67190785,
+        "LONGITUDE": -122.15236959,
+        "LATITUDE": 47.58030849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.10097776279412,
+          47.673670873181976
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek P&R with bicycle lockers",
+        "OBJECTID": 3,
+        "FEATURE_ID": 580002,
+        "CODE": "Bike Locker",
+        "ADDRESS": "7760 178th Pl NE",
+        "BIKE_LOCKERS": 12,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1328125.658,
+        "YCOORD": 248306.4815,
+        "LONGITUDE": -122.1009791,
+        "LATITUDE": 47.67366867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2279955717884,
+          47.3212356800273
+        ]
+      },
+      "properties": {
+        "name": "Auburn P&R with bicycle lockers",
+        "OBJECTID": 4,
+        "FEATURE_ID": 580017,
+        "CODE": "Bike Locker",
+        "ADDRESS": "101 15th St NE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1294507.75013928,
+        "YCOORD": 120312.6328601,
+        "LONGITUDE": -122.22799878,
+        "LATITUDE": 47.32123368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20839433067027,
+          47.48053693930072
+        ]
+      },
+      "properties": {
+        "name": "Renton Transit Center with bicycle lockers",
+        "OBJECTID": 5,
+        "FEATURE_ID": 580006,
+        "CODE": "Bike Locker",
+        "ADDRESS": "S 2nd & Burnett Ave S",
+        "BIKE_LOCKERS": 0,
+        "OnDemandeLockers": 8,
+        "XCOORD": 1300407.009,
+        "YCOORD": 178323.5615,
+        "LONGITUDE": -122.20839664,
+        "LATITUDE": 47.48053489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1514384973557,
+          47.75657868886728
+        ]
+      },
+      "properties": {
+        "name": "Woodinville P&R with bicycle lockers",
+        "OBJECTID": 6,
+        "FEATURE_ID": 580003,
+        "CODE": "Bike Locker",
+        "ADDRESS": "17800 140th Ave NE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1316213.534,
+        "YCOORD": 278752.898,
+        "LONGITUDE": -122.15143948,
+        "LATITUDE": 47.75657663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01942597743448,
+          47.545119268190646
+        ]
+      },
+      "properties": {
+        "name": "Issaquah Highlands P&R with bicycle lockers",
+        "OBJECTID": 7,
+        "FEATURE_ID": 580005,
+        "CODE": "Bike Locker",
+        "ADDRESS": "1755 Highlands Dr",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 8,
+        "XCOORD": 1347492.052,
+        "YCOORD": 201100.5973,
+        "LONGITUDE": -122.01942788,
+        "LATITUDE": 47.5451168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19043324164568,
+          47.58652601157919
+        ]
+      },
+      "properties": {
+        "name": "South Bellevue P&R with bicycle lockers",
+        "OBJECTID": 8,
+        "FEATURE_ID": 580016,
+        "CODE": "Bike Locker",
+        "ADDRESS": "2700 Bellevue Way SE",
+        "BIKE_LOCKERS": 6,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1305529.50007735,
+        "YCOORD": 216899.81206068,
+        "LONGITUDE": -122.19043504,
+        "LATITUDE": 47.58652394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26823433669931,
+          47.48213633273219
+        ]
+      },
+      "properties": {
+        "name": "Tukwila P&R with bicycle lockers",
+        "OBJECTID": 9,
+        "FEATURE_ID": 580001,
+        "CODE": "Bike Locker",
+        "ADDRESS": "13445 Interurban Ave S",
+        "BIKE_LOCKERS": 6,
+        "OnDemandeLockers": 4,
+        "XCOORD": 1285623,
+        "YCOORD": 179177,
+        "LONGITUDE": -122.26823665,
+        "LATITUDE": 47.48213441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30057657781937,
+          47.312559266532965
+        ]
+      },
+      "properties": {
+        "name": "Federal Way/S 320th St P&R with bicycle lockers",
+        "OBJECTID": 10,
+        "FEATURE_ID": 580009,
+        "CODE": "Bike Locker",
+        "ADDRESS": "32320 23rd Ave S",
+        "BIKE_LOCKERS": 6,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1276447.74984202,
+        "YCOORD": 117483.06305994,
+        "LONGITUDE": -122.30057984,
+        "LATITUDE": 47.31255742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18533731102183,
+          47.66792777887842
+        ]
+      },
+      "properties": {
+        "name": "Houghton P&R with bicycle lockers",
+        "OBJECTID": 11,
+        "FEATURE_ID": 580012,
+        "CODE": "Bike Locker",
+        "ADDRESS": "7024 116th Ave NE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1307308.50012827,
+        "YCOORD": 246565.64183652,
+        "LONGITUDE": -122.18533873,
+        "LATITUDE": 47.66792572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1837460748013,
+          47.50700036736962
+        ]
+      },
+      "properties": {
+        "name": "St Matthew Lutheran Church P&R with bicycle lockers",
+        "OBJECTID": 12,
+        "FEATURE_ID": 580014,
+        "CODE": "Bike Locker",
+        "ADDRESS": "2516 NE 16th St",
+        "BIKE_LOCKERS": 2,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1306670.5,
+        "YCOORD": 187867.0831,
+        "LONGITUDE": -122.18374823,
+        "LATITUDE": 47.50699826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19631386959104,
+          47.64387748208336
+        ]
+      },
+      "properties": {
+        "name": "South Kirkland P&R with bicycle lockers",
+        "OBJECTID": 13,
+        "FEATURE_ID": 580019,
+        "CODE": "Bike Locker",
+        "ADDRESS": "10610 NE 38th Pl",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 4,
+        "XCOORD": 1304449,
+        "YCOORD": 237842,
+        "LONGITUDE": -122.19631541,
+        "LATITUDE": 47.64387543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32082672976871,
+          47.67646306821543
+        ]
+      },
+      "properties": {
+        "name": "Green Lake P&R with bicycle lockers",
+        "OBJECTID": 14,
+        "FEATURE_ID": 580021,
+        "CODE": "Bike Locker",
+        "ADDRESS": "6601 8th Ave NE",
+        "BIKE_LOCKERS": 22,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1273990.617,
+        "YCOORD": 250294.2938,
+        "LONGITUDE": -122.32082816,
+        "LATITUDE": 47.67646125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18774948188076,
+          47.74125977065367
+        ]
+      },
+      "properties": {
+        "name": "Brickyard Road P&R with bicycle lockers",
+        "OBJECTID": 15,
+        "FEATURE_ID": 580023,
+        "CODE": "Bike Locker",
+        "ADDRESS": "15530 Juanita-Woodinville Way NE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1307185,
+        "YCOORD": 273321,
+        "LONGITUDE": -122.18775057,
+        "LATITUDE": 47.74125773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1238799546305,
+          47.676821655180525
+        ]
+      },
+      "properties": {
+        "name": "Redmond Transit Center with bicycle lockers",
+        "OBJECTID": 16,
+        "FEATURE_ID": 580024,
+        "CODE": "Bike Locker",
+        "ADDRESS": "16160 NE 83rd St",
+        "BIKE_LOCKERS": 12,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1322503.377,
+        "YCOORD": 249549.3947,
+        "LONGITUDE": -122.12388129,
+        "LATITUDE": 47.67681949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21362345698309,
+          47.47273653371814
+        ]
+      },
+      "properties": {
+        "name": "South Renton P&R Bicycle Lockers",
+        "OBJECTID": 17,
+        "FEATURE_ID": 580027,
+        "CODE": "Bike Locker",
+        "ADDRESS": "S Grady Way & Shattuck Ave",
+        "BIKE_LOCKERS": 0,
+        "OnDemandeLockers": 4,
+        "XCOORD": 1299063.117,
+        "YCOORD": 175501.8506,
+        "LONGITUDE": -122.21362581,
+        "LATITUDE": 47.4727345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34208128168333,
+          47.77428619982111
+        ]
+      },
+      "properties": {
+        "name": "Aurora Village Transit Center with bicycle lockers",
+        "OBJECTID": 18,
+        "FEATURE_ID": 580028,
+        "CODE": "Bike Locker",
+        "ADDRESS": "1524 N 200th St",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 12,
+        "XCOORD": 1269455,
+        "YCOORD": 286072,
+        "LONGITUDE": -122.34208232,
+        "LATITUDE": 47.77428456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06236208697963,
+          47.54054632936948
+        ]
+      },
+      "properties": {
+        "name": "Tibbetts Lot P&R Bicycle Lockers",
+        "OBJECTID": 19,
+        "FEATURE_ID": 580029,
+        "CODE": "Bike Locker",
+        "ADDRESS": "1675 Newport Way NW",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1336862.538,
+        "YCOORD": 199599.1505,
+        "LONGITUDE": -122.06236403,
+        "LATITUDE": 47.54054395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46101656768101,
+          47.423099520855274
+        ]
+      },
+      "properties": {
+        "name": "Valley Center P&R with bicycle Lockers",
+        "OBJECTID": 20,
+        "FEATURE_ID": 580030,
+        "CODE": "Bike Locker",
+        "ADDRESS": "20221 Vashon hwy SW",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1237506.91,
+        "YCOORD": 158595.7177,
+        "LONGITUDE": -122.46101921,
+        "LATITUDE": 47.42309788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33707384976111,
+          47.47015552000142
+        ]
+      },
+      "properties": {
+        "name": "Burien Transit Center Bicycle Lockers",
+        "OBJECTID": 21,
+        "FEATURE_ID": 580031,
+        "CODE": "Bike Locker",
+        "ADDRESS": "209 SW 148th St",
+        "BIKE_LOCKERS": 8,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1268518.468,
+        "YCOORD": 175132.6351,
+        "LONGITUDE": -122.33707623,
+        "LATITUDE": 47.47015368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24331100065801,
+          47.385987684189274
+        ]
+      },
+      "properties": {
+        "name": "Kent/James Street P&R with bicycle lockers",
+        "OBJECTID": 22,
+        "FEATURE_ID": 580007,
+        "CODE": "Bike Locker",
+        "ADDRESS": "902 W James St",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1291142.311,
+        "YCOORD": 143997.267,
+        "LONGITUDE": -122.24331385,
+        "LATITUDE": 47.38598572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18758999491114,
+          47.71698180714752
+        ]
+      },
+      "properties": {
+        "name": "Kingsgate P&R with bicycle lockers",
+        "OBJECTID": 23,
+        "FEATURE_ID": 580022,
+        "CODE": "Bike Locker",
+        "ADDRESS": "13001 116th Way NE",
+        "BIKE_LOCKERS": 8,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1307068.402,
+        "YCOORD": 264465.883,
+        "LONGITUDE": -122.1875912,
+        "LATITUDE": 47.71697976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23169290656539,
+          47.30541951270054
+        ]
+      },
+      "properties": {
+        "name": "Auburn Station with bicycle lockers",
+        "OBJECTID": 24,
+        "FEATURE_ID": 580032,
+        "CODE": "Bike Locker",
+        "ADDRESS": "A St SW & 2nd St SW",
+        "BIKE_LOCKERS": 40,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1293486,
+        "YCOORD": 114561,
+        "LONGITUDE": -122.2316962,
+        "LATITUDE": 47.30541752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29259232516215,
+          47.55957049831237
+        ]
+      },
+      "properties": {
+        "name": "Columbia City Station with bicycle lockers",
+        "OBJECTID": 25,
+        "FEATURE_ID": 580033,
+        "CODE": "Bike Locker",
+        "ADDRESS": "4818 MLK Jr Way S",
+        "BIKE_LOCKERS": 37,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1280136.516,
+        "YCOORD": 207530.4423,
+        "LONGITUDE": -122.29259428,
+        "LATITUDE": 47.55956861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30468236945815,
+          47.31753565219618
+        ]
+      },
+      "properties": {
+        "name": "Federal Way Transit Center with bicycle lockers",
+        "OBJECTID": 26,
+        "FEATURE_ID": 580034,
+        "CODE": "Bike Locker",
+        "ADDRESS": "31621 23rd Ave S",
+        "BIKE_LOCKERS": 18,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1275464.082,
+        "YCOORD": 119317.4013,
+        "LONGITUDE": -122.3046856,
+        "LATITUDE": 47.31753381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06166979876829,
+          47.541861912013964
+        ]
+      },
+      "properties": {
+        "name": "Issaquah Transit Center with bicycle lockers",
+        "OBJECTID": 27,
+        "FEATURE_ID": 580035,
+        "CODE": "Bike Locker",
+        "ADDRESS": "1050 17th Ave NW",
+        "BIKE_LOCKERS": 10,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1337041.169,
+        "YCOORD": 200076.2378,
+        "LONGITUDE": -122.06167174,
+        "LATITUDE": 47.54185953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23278965221306,
+          47.383945204038106
+        ]
+      },
+      "properties": {
+        "name": "Kent Station TC with bicycle lockers",
+        "OBJECTID": 28,
+        "FEATURE_ID": 580036,
+        "CODE": "Bike Locker",
+        "ADDRESS": "301 Railroad Ave N",
+        "BIKE_LOCKERS": 45,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1293734.784,
+        "YCOORD": 143204.7885,
+        "LONGITUDE": -122.23279251,
+        "LATITUDE": 47.38394322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23168163502899,
+          47.58884905417932
+        ]
+      },
+      "properties": {
+        "name": "Mercer Island P&R with bicycle lockers",
+        "OBJECTID": 29,
+        "FEATURE_ID": 580037,
+        "CODE": "Bike Locker",
+        "ADDRESS": "8000 N Mercer Way",
+        "BIKE_LOCKERS": 16,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1295367.267,
+        "YCOORD": 217929.2624,
+        "LONGITUDE": -122.23168345,
+        "LATITUDE": 47.58884707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13329683229965,
+          47.644450575621676
+        ]
+      },
+      "properties": {
+        "name": "Overlake TC with bicycle lockers",
+        "OBJECTID": 30,
+        "FEATURE_ID": 580038,
+        "CODE": "Bike Locker",
+        "ADDRESS": "15590 NE 36th St ",
+        "BIKE_LOCKERS": 6,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1319984.392,
+        "YCOORD": 237782.2624,
+        "LONGITUDE": -122.13329833,
+        "LATITUDE": 47.64444841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29698863888618,
+          47.445415101589596
+        ]
+      },
+      "properties": {
+        "name": "Sea-Tac Airport Station with bicycle lockers",
+        "OBJECTID": 31,
+        "FEATURE_ID": 580039,
+        "CODE": "Bike Locker",
+        "ADDRESS": "International Blvd & S 176th St",
+        "BIKE_LOCKERS": 24,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1278259.319,
+        "YCOORD": 165918.6893,
+        "LONGITUDE": -122.29699116,
+        "LATITUDE": 47.44541322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32738348472435,
+          47.58119051384511
+        ]
+      },
+      "properties": {
+        "name": "SODO Station with bicycle lockers",
+        "OBJECTID": 32,
+        "FEATURE_ID": 580040,
+        "CODE": "Bike Locker",
+        "ADDRESS": "500 S Lander St",
+        "BIKE_LOCKERS": 16,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1271701,
+        "YCOORD": 215580,
+        "LONGITUDE": -122.32738534,
+        "LATITUDE": 47.58118868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28825210141149,
+          47.46416487477952
+        ]
+      },
+      "properties": {
+        "name": "Tukwila International Blvd Station with bicycle lockers",
+        "OBJECTID": 33,
+        "FEATURE_ID": 580041,
+        "CODE": "Bike Locker",
+        "ADDRESS": "15426 35th Ave S",
+        "BIKE_LOCKERS": 8,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1280550.066,
+        "YCOORD": 172715.742,
+        "LONGITUDE": -122.28825452,
+        "LATITUDE": 47.46416298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24029952600081,
+          47.46084170097932
+        ]
+      },
+      "properties": {
+        "name": "Tukwila Sounder Station with bicycle lockers",
+        "OBJECTID": 34,
+        "FEATURE_ID": 580042,
+        "CODE": "Bike Locker",
+        "ADDRESS": "7301 S Longacres Way",
+        "BIKE_LOCKERS": 27,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1292387.382,
+        "YCOORD": 171283.2242,
+        "LONGITUDE": -122.24030196,
+        "LATITUDE": 47.46083973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24076172891414,
+          47.757145142776764
+        ]
+      },
+      "properties": {
+        "name": "Kenmore P&R with bicycle lockers",
+        "OBJECTID": 35,
+        "FEATURE_ID": 580011,
+        "CODE": "Bike Locker",
+        "ADDRESS": "7346 NE Bothell Way",
+        "BIKE_LOCKERS": 12,
+        "OnDemandeLockers": 4,
+        "XCOORD": 1294249.608,
+        "YCOORD": 279348.5376,
+        "LONGITUDE": -122.2407628,
+        "LATITUDE": 47.75714321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34697310881559,
+          47.76670561426371
+        ]
+      },
+      "properties": {
+        "name": "Shoreline P&R with bicycle lockers",
+        "OBJECTID": 36,
+        "FEATURE_ID": 580015,
+        "CODE": "Bike Locker",
+        "ADDRESS": "18821 Aurora Ave N",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1268197.999,
+        "YCOORD": 283330.9997,
+        "LONGITUDE": -122.34697417,
+        "LATITUDE": 47.76670395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1892165852921,
+          47.55685156147288
+        ]
+      },
+      "properties": {
+        "name": "Newport Hills P&R with bicycle lockers",
+        "OBJECTID": 37,
+        "FEATURE_ID": 580004,
+        "CODE": "Bike Locker",
+        "ADDRESS": "5115 113th Pl SE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 0,
+        "XCOORD": 1305639,
+        "YCOORD": 206072,
+        "LONGITUDE": -122.18921852,
+        "LATITUDE": 47.55684948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03592419286184,
+          47.58226528771999
+        ]
+      },
+      "properties": {
+        "name": "South Sammamish P&R with bicycle lockers",
+        "OBJECTID": 38,
+        "FEATURE_ID": 580010,
+        "CODE": "Bike Locker",
+        "ADDRESS": "3015 228th Ave SE",
+        "BIKE_LOCKERS": 4,
+        "OnDemandeLockers": 4,
+        "XCOORD": 1343629.611,
+        "YCOORD": 214711.7436,
+        "LONGITUDE": -122.03592592,
+        "LATITUDE": 47.58226289
+      }
+    }
+  ]
+}

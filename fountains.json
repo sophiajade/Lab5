@@ -1,0 +1,4436 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34993287863043,
+          47.53733564631285
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00137",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30742395130011,
+          47.56699401093463
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00087",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39888603577728,
+          47.64501651231614
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00042",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33084331975266,
+          47.6019048187623
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00105",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35984605783628,
+          47.547332633658456
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00185",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33992791047469,
+          47.68204677755617
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00029",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29399669093971,
+          47.73131135955731
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00173",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29530689027966,
+          47.55247115818656
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00100",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25744000970525,
+          47.551531316949294
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00143",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37445787960861,
+          47.540092020538246
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00091",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28258925382468,
+          47.6092991213762
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00032",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34851087543127,
+          47.630593441931204
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00209",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24665395081067,
+          47.510375657556565
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00144",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32819819053026,
+          47.72189837363303
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00104",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36446466875657,
+          47.56130148967615
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00192",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33657792478347,
+          47.68534240275751
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00120",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30458133036142,
+          47.59469725157028
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00033",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": "397N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27305416853804,
+          47.52578321140152
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00090",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28831863261209,
+          47.579724586055676
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00034",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30897872346597,
+          47.565730934137115
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00181",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32263451270722,
+          47.705801527018224
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00021",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27356240588198,
+          47.523709769068674
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00007",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31434833845981,
+          47.63201882887446
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00153",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39925756182214,
+          47.64063844087146
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00138",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25851137681742,
+          47.68190072959157
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00028",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38408813029753,
+          47.57899988190332
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00126",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31454427866912,
+          47.629699475432496
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00171",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32604899486094,
+          47.68037163447365
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00176",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29254424961205,
+          47.5901050241592
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00078",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31754232317921,
+          47.59226551243146
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00004",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25506989524347,
+          47.552009321366576
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00083",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34305234061247,
+          47.66914815881058
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00066",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27052917251561,
+          47.55884774628617
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00022",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25674520014117,
+          47.550073337820955
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00011",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2866300886939,
+          47.56225550326586
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00130",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39770661126703,
+          47.63578469012584
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00080",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39148820614412,
+          47.53605245527306
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00164",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34982643083032,
+          47.539658877644655
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00074",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43412280218091,
+          47.66141021900402
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00177",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25178737967286,
+          47.550523039205224
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00189",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33246728961501,
+          47.66396310822106
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00117",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 1104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25651338287571,
+          47.549204712873966
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00145",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34491827327417,
+          47.665622699195076
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00157",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39925870564551,
+          47.64669261201185
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00053",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35991333210745,
+          47.62943670389427
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00064",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35419578916746,
+          47.636065435483914
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00015",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29850432782449,
+          47.720210611051186
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00121",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3975995414737,
+          47.6777212552949
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00010",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34305461491434,
+          47.66990073479817
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00188",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30445304031946,
+          47.60314698603081
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00039",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37458806062976,
+          47.69006860925373
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00118",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 2840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26389080170281,
+          47.52429895131541
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00136",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31946908924444,
+          47.56024879849232
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00044",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34460455376114,
+          47.61440509075194
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00160",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3599411450181,
+          47.65178356293184
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00085",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40399890329051,
+          47.69167540368136
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00167",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33368046819426,
+          47.646205753696485
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00152",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32911093041879,
+          47.67866722017229
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00205",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38074374427298,
+          47.58927378766463
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00204",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38487086187955,
+          47.57871018523562
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00071",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36594343555723,
+          47.64021090871293
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00161",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36055338909941,
+          47.64515861812486
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00156",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37837464518603,
+          47.647358308037866
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00103",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32496629151609,
+          47.528310704635366
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00050",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30448089316546,
+          47.676880395321064
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00186",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29990970257246,
+          47.717647967868515
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00059",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34346883477905,
+          47.6099810279528
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00099",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30555484539978,
+          47.67136934811889
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00063",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35984013663536,
+          47.634991076501386
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00135",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38267880829721,
+          47.68450716632761
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00043",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31512973086598,
+          47.630460412211704
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00037",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36947877905837,
+          47.66713552962421
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00070",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3790701704475,
+          47.6472636162391
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00182",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38356396289348,
+          47.68461754468767
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00014",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24916315030892,
+          47.678558539608645
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00207",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3190697230484,
+          47.61640261829609
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00012",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34581678537482,
+          47.67240144880585
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00125",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38530505909728,
+          47.67048184628524
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00165",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37357836419322,
+          47.55577691078615
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00035",
+        "drinking_t": 0,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31910627273434,
+          47.65934722473421
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00092",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3612125014668,
+          47.65244450694915
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00190",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31727235379455,
+          47.63030751497665
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00111",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34434303881574,
+          47.665586171192366
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00016",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39511802215623,
+          47.52733098790235
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00202",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33787251383582,
+          47.626150284522865
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00123",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310175430781,
+          47.61346179916671
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00052",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38046384573875,
+          47.55385107907883
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00031",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35757767320024,
+          47.666758592188074
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00162",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40005661475963,
+          47.641233590324525
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00178",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25025348482629,
+          47.54971521181928
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00199",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34209213619023,
+          47.665805328290475
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00084",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36715255465127,
+          47.627673665346954
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00150",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38737054458547,
+          47.59518600258394
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00057",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33374165540452,
+          47.60193064798332
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00112",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38584503670533,
+          47.63179297416485
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00049",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30195679782288,
+          47.60640186856741
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00020",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39753897671672,
+          47.633372667085744
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00133",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28287929062398,
+          47.548093653804855
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00097",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32958347984146,
+          47.63980518799018
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00114",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31602681935878,
+          47.55238799294513
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00131",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32194832450229,
+          47.551182361476215
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00048",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34217495494461,
+          47.60716766592547
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00068",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3252200897582,
+          47.59847719073838
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00159",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31260618276595,
+          47.672272665219346
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00075",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32609075878109,
+          47.720653646126806
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00036",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28780003681464,
+          47.60119346790597
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00082",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32508191729336,
+          47.64292569680798
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00098",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29715745326835,
+          47.585142586059646
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00163",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29715233302818,
+          47.58547555812811
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00122",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39467141774432,
+          47.53431246984698
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00134",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28788692200155,
+          47.58297015902346
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00155",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39917328503165,
+          47.66463688293641
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00197",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33915758464032,
+          47.6987241093541
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00147",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30435933486825,
+          47.60093812039244
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00211",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34933472008683,
+          47.52705123585232
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00077",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29436125774795,
+          47.58269128735554
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00198",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33682918290907,
+          47.658278102571515
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00151",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2741331388934,
+          47.52473564430536
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00026",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34885599412915,
+          47.7234926538672
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00206",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27229681418869,
+          47.524799076453085
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00213",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39562195250654,
+          47.52683650269147
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00201",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2769475658613,
+          47.63605383313181
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00184",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39075174544048,
+          47.640806579107895
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00017",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37818407640714,
+          47.71307161968298
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00212",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27331852932923,
+          47.696705878130906
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00058",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33683274118941,
+          47.65882756563047
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00140",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29614094420207,
+          47.539525219592996
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00127",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29392871526454,
+          47.62740440007735
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00062",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32883641051372,
+          47.61463867860064
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00102",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36923139551834,
+          47.7116645313978
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00124",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2882186504487,
+          47.7260486789816
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00096",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25639568613077,
+          47.549496322879754
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00106",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30449533168459,
+          47.67690639979869
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00024",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2851617594713,
+          47.56164916094458
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00069",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30295763263119,
+          47.6691735041349
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00116",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2927580595645,
+          47.706580261363065
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00038",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28465673849112,
+          47.51908506631469
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00196",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29306942086741,
+          47.63254931016994
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00175",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2536226681281,
+          47.68085978914424
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00158",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38527721877458,
+          47.59242512057091
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00086",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31430572411494,
+          47.716566325582804
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00054",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40586229945443,
+          47.56238118118689
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00089",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3920
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31972162687195,
+          47.61700495774589
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00018",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27379209997314,
+          47.52496356632744
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00183",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28649246363223,
+          47.5393032707363
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00046",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28991699654912,
+          47.611219587078104
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00109",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38415360678748,
+          47.68372148282437
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00195",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35365974845122,
+          47.64318081418768
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00194",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.373737795031,
+          47.5558356185325
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00079",
+        "drinking_t": 0,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30468792593884,
+          47.59503003081719
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00180",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": "397N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37211779724032,
+          47.54026622268564
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00023",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3551651330847,
+          47.63132298974294
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00132",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33080311508938,
+          47.601969408138
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00191",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32312365959237,
+          47.52812872004948
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00170",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28388478958954,
+          47.6752681455195
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00045",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35628358001654,
+          47.625627015502204
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00055",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27835726193582,
+          47.6598438362611
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00108",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34950071938745,
+          47.723753328345666
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00129",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38215125517885,
+          47.67975647972374
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00025",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2772625416212,
+          47.66090150811473
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00056",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33964374646864,
+          47.68220269760234
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00141",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37309662538007,
+          47.54055197950319
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00169",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27273607793738,
+          47.52603172318585
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00179",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27852792698613,
+          47.6591285516408
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00142",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34646785903497,
+          47.67072338568349
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00006",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34796529965394,
+          47.63044530111542
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00009",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2802872294777,
+          47.68118637085839
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00081",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24695406393461,
+          47.68043949988863
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00166",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37355079908501,
+          47.69662042676749
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00149",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29593315031083,
+          47.60466015397544
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00139",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34334124017533,
+          47.67194642769095
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00040",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35846565972588,
+          47.69561779648064
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00174",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32538313607796,
+          47.61190158290228
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00208",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341253111032,
+          47.61909282515119
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00115",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27942556569111,
+          47.563018004141945
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00030",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31823906350515,
+          47.55964645219943
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00067",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34906789856839,
+          47.65566512650448
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00203",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29387958195842,
+          47.70644202910438
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00113",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35087581656106,
+          47.69351503278876
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00027",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37514006254074,
+          47.555416662396965
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00076",
+        "drinking_t": 0,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2577152210034,
+          47.5486202552655
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00019",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40323311112395,
+          47.68705921986828
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00154",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30696221609124,
+          47.62095488074545
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00073",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30864937481985,
+          47.60848642713843
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00187",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34287605984048,
+          47.6716570954725
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00093",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28563644709153,
+          47.601376045344345
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00110",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25989823085867,
+          47.51466354213226
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00047",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25341087343372,
+          47.561544771216724
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00003",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30300383696677,
+          47.59619112829623
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00107",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": "397N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32149890761089,
+          47.54509107563337
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00146",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34141781046597,
+          47.66858220151702
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00051",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28338146827568,
+          47.56130248497271
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00119",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3154245369491,
+          47.58658676734264
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00065",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32883698454845,
+          47.64316794342326
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00088",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 9064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4280624510801,
+          47.66089986300191
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00013",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36336929291451,
+          47.70334915483806
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00094",
+        "drinking_t": 31,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28217409232568,
+          47.61031455712648
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00095",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38220857463794,
+          47.5923924928253
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00193",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 3917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32910413888041,
+          47.68004522167782
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00008",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31969353550178,
+          47.66449482815836
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00172",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30811408267046,
+          47.70595761874368
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00128",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39183409538121,
+          47.67285528465875
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00168",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31099515683627,
+          47.565767550638064
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00072",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35889284190979,
+          47.643868898220916
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00101",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32353515062087,
+          47.59678170482731
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00148",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34158681240314,
+          47.665487564113796
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00041",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37457290596586,
+          47.555136165757645
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00200",
+        "drinking_t": 0,
+        "gis_edt_dt": "2016-05-16T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 4154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29551189712406,
+          47.59011739379042
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00215",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-05-31T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": null,
+        "park": null,
+        "pmaid": 4242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35381774233393,
+          47.63618897770571
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00005",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-06-08T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36163157856797,
+          47.660310576130485
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00002",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-06-08T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37996566513857,
+          47.69523316716026
+        ]
+      },
+      "properties": {
+        "styleUrl": "#defaultStyle",
+        "styleHash": "-11f5633",
+        "amwoid": "DRINKF-00210",
+        "drinking_t": 30,
+        "gis_edt_dt": "2016-06-09T00:00:00.000Z",
+        "gis_edt_sr": "DPR",
+        "life_cycle": "A",
+        "park": null,
+        "pmaid": 251
+      }
+    }
+  ]
+}

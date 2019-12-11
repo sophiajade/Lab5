@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<div class="home">
+<head>
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet-src.js" crossorigin=""></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .mySlides {display:none;}
+  p.round3 {
+  border: 2px solid #ffd9b3;
+  border-radius: 20px; width: 700px; height: 580px;}
+  </style>
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <h1>A Brief Guide for the Seattle Cyclist</h1>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+  <link rel="stylesheet" href="Lab5.css"/>
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+  <div class="row1">
+  <div class="column1">
+  <div id="map" style="width: 650px; height: 600px; margin: auto;"></div>
+  <script>
+  var newMap = L.map('map').setView([47.55000, -122.350912], 9.5);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png?', {
+  attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
+}).addTo(newMap);
+$.getJSON("bikelockers.json",function(data){
+  var bikeIcon = L.icon({
+  iconUrl: 'bicycle.svg',
+  iconSize: [25]
+});
+  L.geoJson(data, {
+       pointToLayer: function(feature,latlng){
+         var marker = L.marker(latlng,{icon: bikeIcon});
+         marker.bindPopup( "<strong>" + feature.properties.name + '<br/>' + feature.properties.ADDRESS + '<br/>' + "# of lockers: " + feature.properties.BIKE_LOCKERS +'<br/>' + "# of lockers on demand: " + feature.properties.OnDemandeLockers);
+         return marker;}}
+  ).addTo(newMap);
+});
+$.getJSON("fountains.json",function(data){
+  var waterIcon = L.icon({
+  iconUrl: 'water-drop.svg',
+  iconSize: [10]
+});
+  L.geoJson(data, {
+       pointToLayer: function(feature,latlng){
+         var marker = L.marker(latlng,{icon: waterIcon});
+         marker.bindPopup( "<strong> Water break!" + '<br/>' + "fountain located here");
+         return marker;}}
+  ).addTo(newMap);
+});
+</script>
+</div>
+<div class="row1">
+<div class="column1">
+<p class="round3"><br>Seattle’s bike population is booming. While the city is still improving bike lanes, lights, and trails, it is evident that commuting and traveling in the city on two wheels is doable, if not better, than driving in a vehicle.</br>
+<br>This first map presents transit facilities with bike lockers throughout the city. By clicking on a point on the map, many of these bike lockers are placed in heavily frequented public areas which is significant. These places range from airports, to sounder train stations, to public centers, exemplifying the need to improve accessibility in public spaces while promoting sustainable transportation methods.</br>
+<br><a href="https://gis-kingcounty.opendata.arcgis.com/datasets/king-county-transit-facilities-with-bicycle-lockers-bike-lockers-point" target="_blank"> King County Transit Facilities With Bike Locks Data</a></br>
+<br><a href="https://data.seattle.gov/Parks-and-Recreation/Seattle-Parks-and-Recreation-GIS-Map-Layer-Shapefi/m78m-bdc6" target="_blank"> City of Seattle Drinking Fountain Data</a></br><br>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></br></p>
+</div>
+</div>
+<br><img src="tunnel.jpg" alt="Seattle Bike Tunnel"></br>
+<p><i>One of many bikeable tunnels and underpasses in Seattle, WA</i></p>
+<div class="column2">
+<div id="map2" style="width: 650px; height: 600px; margin: auto;"></div>
+<script>
+  var newMap2 = L.map('map2').setView([47.605975, -122.331807], 10);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
+  }).addTo(newMap2);
+
+  newMap.createPane("polygonsPane1");
+  newMap.createPane("polygonsPane2");
+
+  $.getJSON("publicartwork.json",function(data){
+    var circleIcon = L.icon({
+    iconUrl: 'circle.svg',
+    iconSize: [8]
+  });
+  L.geoJson(data, {
+      pane:"polygonsPane2",
+       pointToLayer: function(feature,latlng){
+         var marker = L.marker(latlng,{icon: circleIcon});
+         marker.bindPopup( "<strong> Title: " + feature.properties.title + '<br/>' + "Description: " + feature.properties.descriptio + '<br/>' + "Artist: " + feature.properties.artist + '<br/>' + feature.properties.address);
+      return marker;}}
+  ).addTo(newMap2);
+  });
+  $.getJSON("repairshops.json",function(data){
+    var repairIcon = L.icon({
+    iconUrl: 'repairing-service.svg',
+    iconSize: [25]
+  });
+  L.geoJson(data, {
+      pane:"polygonsPane1",
+       pointToLayer: function(feature,latlng){
+         var marker = L.marker(latlng,{icon: repairIcon});
+         marker.bindPopup( "<strong>" + feature.properties.Title + '<br/>' + feature.properties.Address + '<br/>' + "For more info visit: " + "<a target='_blank' href='" + feature.properties.Website + "'>Click here</a>");
+      return marker;}}
+  ).addTo(newMap2);
+});
+</script>
+</div>
+<div class="row2">
+<div class="column2">
+<p class="round3"><br>I came up with a quick list of bicycle repair shops, with a bias of Bike Works being my shop of choice, for people looking for well reviewed shops in different parts of Seattle and outside of the city.</br>
+<br>Click on each wrench icon to get information on some of the top rated bicycle repair shops around the city. These shops range from bike maintanence, to second-hand gear, to workshops and classes.</br>
+<br>Along with recommended bicycle repair shops on this map, there are also public works of art displayed with additional information. Public art is part of what makes Seattle feel vibrant and unique. I always notice more sculptures, murals, and other projects while biking or walking around the city. I have more time to actually see what’s around, and by using this map, hopefully viewers can find a few pieces in the city that they have never heard of before and experience them on their own.</br>
+<br><a href="https://data.seattle.gov/Parks-and-Recreation/Seattle-Parks-and-Recreation-GIS-Map-Layer-Shapefi/aq8p-s9tp" target="_blank"> Seattle Parks and Recreation Public Art in Park Data</a></br>
+<br>Both icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></br></p>
+</div>
+</div>
+</div>
+<h1>Popular Bike Trails in and Near Seattle</h1>
+<div class="w3-container">
+</div>
+
+<div class="w3-content w3-display-container">
+
+<div class="w3-display-container mySlides">
+  <img src="Burke-Gilman_Trail.png" style="width:800px; height:650px">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-10 w3-black">
+    Burke-Gilman Trail
+    <br>Total miles: 20</br>
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="cedarriver.jpg" style="width:800px; height:650px">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-10 w3-black">
+    Cedar River Trail
+    <br>Total miles: 17</br>
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="sewardparkloop.png" style="width:800px; height:650px">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-10 w3-black">
+    Seward Park Loop
+    <br>Total miles: 2.6</br>
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="southlakewa.jpg" style="width:800px; height:650px">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-10 w3-black">
+    South Lake Washington Loop
+    <br>Total miles: 32</br>
+  </div>
+</div>
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
+</div>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+</script>
+<p>A quick photo album meant to inspire the cyclist, whether new or experienced, to find a route outside and see a different part of the city.</p>
+<br><img src="mural.jpg" alt="Seattle Bike Mural"></br>
+<p><i>Seattle Bike Mural</i></p>
+<p>Choosing routes you wouldn’t normally take opens up the possibility of experiencing new parts of the city. Finding yourself at a bike shop in a new neighborhood, walking an alternative route to appreciate an artist’s work, and seeing how much ground you can cover by bike and public transportation is part of what makes any city feel uniquely its own.</p>
+</body>
+</div>
+</div>
+</html>

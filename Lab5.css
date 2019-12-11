@@ -1,0 +1,43 @@
+#map { height: 800px;
+  width: 600px;
+}
+
+
+.home {
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #e0ebeb;
+  background-color: #293d3d;
+}
+
+
+.column1 {
+  float: left;
+  width: 50%;
+}
+
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column2 {
+  float: right;
+  width: 50%;
+}
+
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h1 {
+  color: #c2d6d6;
+  text-shadow: 2px 2px #141f1f;
+}
+
+.w3-container{
+  color: #c2d6d6;
+}

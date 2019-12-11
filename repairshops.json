@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Bike Works Seattle",
+        "Address": "3709 S Ferdinand St, Seattle, WA 98118",
+        "Website": "https://bikeworks.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.285284,
+          47.557823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Montlake Bicycle Shop",
+        "Address": "2301-2399 E Lynn St, Seattle, WA 98112",
+        "Website": "https://www.montlakebike.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.302267,
+          47.63941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Bicycle Repair Shop",
+        "Address": "68 Madison St, Seattle, WA 98104",
+        "Website": "https://thebicyclerepairshop.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337234,
+          47.604309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "JRA Bike Shop",
+        "Address": "1120 NW 85th St, Seattle, WA 98117",
+        "Website": "https://jrabikeshop.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.370525,
+          47.69108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Alki Bike and Board",
+        "Address": "2606 California Ave SW, Seattle, WA 98116",
+        "Website": "https://alkibikeandboard.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38556,
+          47.581065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Second Gear Sports",
+        "Address": "6529 California Ave SW, Seattle, WA 98136",
+        "Website": "https://secondgearsports.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386755,
+          47.544156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Vashon Bikes",
+        "Address": "9926 SW Bank Rd, Vashon, WA 98070",
+        "Website": "https://www.vashonbikes.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46075,
+          47.44773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Redmond Cycle",
+        "Address": "7495 159th Pl NE, Redmond, WA 98052",
+        "Website": "https://www.redmondcycle.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.127588,
+          47.672317
+        ]
+      }
+    }
+  ]
+}
